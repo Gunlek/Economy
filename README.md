@@ -4,6 +4,9 @@
 ## Description
 Economy est une solution basique de gestion économique multiserveurs minecraft via base de données
 
+### Plugins utilisants GuildAPI:
+- LobbyMenu
+
 ### Dépendances:
 - spigot
 - mysql-connector-java-5.1.39-bin
