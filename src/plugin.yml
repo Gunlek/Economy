@@ -1,0 +1,12 @@
+author: Gunlek
+version: 1.0
+name: Economy
+website: http://simple-duino.com
+main: com.simpleduino.economy.EconomyPlugin
+commands:
+  eco:
+    description: Access all economic commands
+    permission: economy.admin
+  pay:
+    description: Send money to another player
+    permission: economy.pay
