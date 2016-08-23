@@ -1,5 +1,6 @@
 # Economy
 ### Développé par Fabien Aubret, [SimpleDuino](http://simple-duino.com), pour [NativGaming](http://nativgaming.com)
+### Spigot 1.8.8
 
 ## Description
 Economy est une solution basique de gestion économique multiserveurs minecraft via base de données
